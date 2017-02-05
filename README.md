@@ -1,0 +1,1 @@
+# Create-a-class-template-for-polynomials-of-degree-2
